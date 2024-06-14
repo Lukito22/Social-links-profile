@@ -1,0 +1,163 @@
+body{
+    background-color: hsl(0, 0%, 8%);
+    font-family: "Inter", sans-serif;
+}
+
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.photo{
+    width: 100px;
+    position: relative;
+    left: 46.5%;
+    bottom: 760px;
+    clip-path: circle();
+
+}
+p{
+    color: white;
+    font-size: x-large;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    bottom: 760px;
+}
+
+.loc{
+    font-size: medium;
+    color: hsl(75, 94%, 57%);
+    position: relative;
+    bottom: 775px;
+}
+
+.dis{
+    font-size: small;
+    color: white;
+    position: relative;
+    bottom: 760px;
+
+}
+
+.cube{
+    width: 345px;
+    height: 620px;
+    background-color: hsl(0, 0%, 12%);
+    border: 1px solid none;
+    border-radius: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 85px;
+  }
+
+.gui{
+    width: 280px;
+    height: 50px;
+    color: white;
+    background-color: hsl(0, 0%, 20%);
+    border: 1px solid none;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: 250px;
+    left: 40.2%;
+    transition: background-color 0.55s;
+}
+
+.gui:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+}
+
+
+.gui2{
+    width: 280px;
+    height: 50px;
+    color: white;
+    background-color: hsl(0, 0%, 20%);
+    border: 1px solid none;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: 235px;
+    left: 40.2%;
+    transition: background-color 0.55s;
+}
+
+.gui2:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+}
+
+.gui3{
+    width: 280px;
+    height: 50px;
+    color: white;
+    background-color: hsl(0, 0%, 20%);
+    border: 1px solid none;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: 220px;
+    left: 40.2%;
+    transition: background-color 0.55s;
+}
+
+.gui3:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+}
+
+.gui4{
+    width: 280px;
+    height: 50px;
+    color: white;
+    background-color: hsl(0, 0%, 20%);
+    border: 1px solid none;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: 205px;
+    left: 40.2%;
+    transition: background-color 0.55s;
+}
+
+.gui4:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+}
+
+.gui5{
+    width: 280px;
+    height: 50px;
+    color: white;
+    background-color: hsl(0, 0%, 20%);
+    border: 1px solid none;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: 190px;
+    left: 40.2%;
+    transition: background-color 0.55s;
+}
+
+.gui5:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+}
+
